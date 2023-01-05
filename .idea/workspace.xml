@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a9d2b08-9a45-4694-a513-20308628473c" name="Changes" comment="init" />
+    <list default="true" id="9a9d2b08-9a45-4694-a513-20308628473c" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -224,7 +226,7 @@
       <workItem from="1672830974033" duration="6573000" />
       <workItem from="1672910087081" duration="31000" />
       <workItem from="1672910511690" duration="2980000" />
-      <workItem from="1672914535368" duration="20000" />
+      <workItem from="1672914535368" duration="187000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672832008378</created>

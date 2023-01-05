@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a9d2b08-9a45-4694-a513-20308628473c" name="Changes" comment="init">
+    <list default="true" id="9a9d2b08-9a45-4694-a513-20308628473c" name="Changes" comment="fix: gitignore 인텔리제이 파일 추가">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +227,7 @@
       <workItem from="1672830974033" duration="6573000" />
       <workItem from="1672910087081" duration="31000" />
       <workItem from="1672910511690" duration="2980000" />
-      <workItem from="1672914535368" duration="187000" />
+      <workItem from="1672914535368" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672832008378</created>
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672832008378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: gitignore 인텔리제이 파일 추가">
+      <created>1672914766345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672914766345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +262,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="fix: gitignore 인텔리제이 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: gitignore 인텔리제이 파일 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

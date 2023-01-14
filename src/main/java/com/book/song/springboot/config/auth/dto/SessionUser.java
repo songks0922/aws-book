@@ -1,10 +1,11 @@
 package com.book.song.springboot.config.auth.dto;
 
 import com.book.song.springboot.domain.user.User;
+import java.io.Serializable;
 import lombok.Getter;
 
 @Getter
-public class SessionUser {
+public class SessionUser implements Serializable {
 
     private String name;
     private String email;

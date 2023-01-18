@@ -1,4 +1,4 @@
-package com.book.song.springboot.config;
+package com.book.song.springboot.config.auth;
 
 import com.book.song.springboot.config.auth.CustomOAuth2UserService;
 import com.book.song.springboot.domain.user.Role;
